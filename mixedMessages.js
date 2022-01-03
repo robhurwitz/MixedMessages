@@ -27,5 +27,5 @@ const complimentOrInsult = () =>{
 
 const randComplimentOrInsult = complimentOrInsult();
 
-//Console.log the final mixed message because that's all I know how to do at this point of the codecademy tutorial
+//console.log the final mixed message because that's all I know how to do at this point of the codecademy tutorial
 console.log(`${randGreeting} ${randIdentifier},\n${randComplimentOrInsult}.`);
